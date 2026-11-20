@@ -1,3 +1,5 @@
-# Feedback - Aula 02 e Aula 03
+David, a aula 2 ficou certa, as 5 rotas funcionam. A aula 3 não tem entrega sua, o servidor.js continua guardando os treinos num array que some quando reinicia, nunca migrou pro banco. A aula 4 também não tem nada.
 
-David, a sua aula 2 está certa, as 5 rotas funcionam. Mas você não migrou pro banco na aula 3, o servidor.js ainda guarda os treinos num array que some quando reinicia. Preciso lançar a nota até sexta-feira, essa é a entrega que falta pra você não ficar só com a nota da aula 2.
+A recuperação do primeiro momento está na lista de revisão. Estuda a lista de revisão que você recupera essas duas.
+
+Os outros 2 pontos desse primeiro momento são a arguição, na próxima aula, no laboratório.
